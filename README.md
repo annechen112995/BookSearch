@@ -1,6 +1,6 @@
 # Book Search App
 
-Android app that leverages the [OpenLibrary API](https://openlibrary.org/developers/api) to search books and display cover images. This app is to be used as the base app for adding suggested extensions.
+Android app that leverages the [OpenLibrary API](https://openlibrary.org/developers/api) to search books and display cover images. Suggested extensions were added to a base app.
 
 ![Imgur](http://i.imgur.com/NJmF42Yl.png)
 
